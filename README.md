@@ -29,7 +29,7 @@ I'm a passionate developer who loves creating practical tools and applications, 
 A text editor designed for online novel writers, with built-in support for voice recognition and model training. It allows authors to prepare annotated data for voice training during the writing process.
 
 ### Voice Input Tool
-[![GitHub Stars](https://img.shields.io/github/stars/ChaserSu/voice-input-tool?style=flat-square)](https://github.com/ChaserSu/voice-input-tool)
+[![GitHub Stars](https://img.shields.io/github/stars/ChaserSu/voice-input-tool?style=flat-square)](https://github.com/ChaserSu/DBInputSync)
 
 > 手机输入/语音转文字，电脑实时上屏
 
@@ -43,7 +43,7 @@ A tool that enables real-time text display on computer screens from mobile voice
 A shell script tool designed to simplify the initial setup of QIIME2, a popular bioinformatics pipeline for microbiome analysis.
 
 ### Shuangpin Tool
-[![GitHub Stars](https://img.shields.io/github/stars/ChaserSu/shuangpin-tool?style=flat-square)](https://github.com/ChaserSu/shuangpin-tool)
+[![GitHub Stars](https://img.shields.io/github/stars/ChaserSu/shuangpin-tool?style=flat-square)](https://github.com/ChaserSu/DBInputSp)
 
 > 一个双拼正反查工具，协助输入法的开发，我正在为其添加librime
 
