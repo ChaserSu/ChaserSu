@@ -24,7 +24,7 @@ I'm a passionate developer who loves creating practical tools and applications, 
 ### DBInputNote
 [![GitHub Stars](https://img.shields.io/github/stars/ChaserSu/DBInputNote?style=flat-square)](https://github.com/ChaserSu/DBInputNote)
 
-> 【如我所述 如我所书】一个围绕语音识别开发的网文编辑器，支持语音识别（即将），支持闲时语音模型自训练（即将）
+> 【如我所述 如我所书】一个围绕语音识别开发的网文编辑器，支持语音识别，支持闲时语音模型自训练（即将）
 
 A text editor designed for online novel writers, with built-in support for voice recognition and model training. It allows authors to prepare annotated data for voice training during the writing process.
 
